@@ -1,0 +1,12 @@
+.failure{
+    font-size: larger;
+    background-color: red;
+    border-radius: 20%;
+    color: white;
+}
+.sucess{
+    font-size: larger;
+    background-color: rgb(45, 199, 71);
+    border-radius: 20%;
+    color: white;
+}
